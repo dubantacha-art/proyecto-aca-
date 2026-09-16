@@ -1,8 +1,7 @@
-# proyecto-aca-
 # Calculadora Básica en Java
 
 ## Estudiante
-Duban Tacha ficha 54439
+Duban Tacha
 
 ## Descripción
 
